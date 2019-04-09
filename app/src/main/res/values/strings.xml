@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weishi</string>
+    <string name="_sim_sim_bind_info">"绑定SIM卡后，再次重启手机时，如果SIM卡信息
+    发生变化，卫视会自动发送报警信息给安全号码"</string>
+</resources>
